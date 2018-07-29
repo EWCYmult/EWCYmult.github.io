@@ -1,0 +1,27 @@
+.search-bar {
+  margin:5px auto;
+  width:90%;
+}
+.search-bar > * {
+  float: left;
+}
+.wapsearchbutton {
+  display: inline-block;
+  background-color: #3690cf;
+  margin-left:5px;
+}
+.submit{
+  display:none;
+}
+.main .box .item {
+  transition:none;
+}
+.main .box .item:hover {
+  font-size: 14px;
+  font-weight: normal;
+  background-color: #fff;
+  color:#3690cf;
+}
+.footer {
+  display:none;
+}
